@@ -37,7 +37,7 @@ const answers = [
     '{userName}のいいところは見た目です。',
     '{userName}のいいところは決断力です。',
     '{userName}のいいところは思いやりです。',
-    '{userName}のいいところはは優しさです。',
+    '{userName}のいいところはは優しさです。_',
 ];
 
 function assessment(userName){
